@@ -2,10 +2,10 @@ import { gameManager } from "./game_manager.js";
 import { mapManager } from "./map_manager.js";
 
 export const soundFiles = [
-    '/data/sounds/bonus.mp3',
-    '/data/sounds/hit.mp3',
-    '/data/sounds/hurt.mp3',
-    '/data/sounds/successfullgameend.mp3'
+    'data/sounds/bonus.mp3',
+    'data/sounds/hit.mp3',
+    'data/sounds/hurt.mp3',
+    'data/sounds/successfullgameend.mp3'
 ];
 
 
