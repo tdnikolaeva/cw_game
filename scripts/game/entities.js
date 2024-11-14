@@ -130,7 +130,7 @@ export class Player extends Entity {
 
     kill() {
         super.kill();
-        soundManager.play('../data/sounds/hurt.mp3', {looping: false, volume: soundManager.volume});
+        soundManager.play('data/sounds/hurt.mp3', {looping: false, volume: soundManager.volume});
         this.drawInfo();
     }
 
@@ -138,7 +138,7 @@ export class Player extends Entity {
         // console.log(`${this.name} fire`);
         this.state = 'hit';
         this.draw(ctx);
-        soundManager.play('../data/sounds/hit.mp3', {looping: false, volume: soundManager.volume});
+        soundManager.play('data/sounds/hit.mp3', {looping: false, volume: soundManager.volume});
     }
 
     update() {
@@ -175,7 +175,7 @@ export class Player extends Entity {
         if (obj.name.match(/coin\d/) && obj.health > 0) {
             this.score += 10;
             obj.kill();
-            soundManager.play('../data/sounds/bonus.mp3', {looping: false, volume: soundManager.volume});
+            soundManager.play('data/sounds/bonus.mp3', {looping: false, volume: soundManager.volume});
         }
         this.drawInfo();
     }
