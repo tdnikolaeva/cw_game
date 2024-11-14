@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box; /* Учитываем отступы и границы в ширине */
+}
+body {
+    font-family: Arial, sans-serif; /* Шрифт аналогичный странице уровня */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f0f0f0; /* Цвет фона */
+    width: 100vw; /* Ширина на 100% от окна просмотра */
+    height: 100vh; /* Высота на 100% от окна просмотра */
+}
+#header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%; /* Ширина заголовка на 100% */
+    padding: 10px 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+h1 {
+    margin: 0; /* Убираем отступы у заголовка */
+}
+.back-button {
+    padding: 10px 15px; /* Отступы для кнопки */
+    background-color: #ccc; /* Серый цвет фона кнопки "Назад" */
+    color: black; /* Цвет текста кнопки "Назад" */
+    border: none; /* Убираем рамку */
+    border-radius: 5px; /* Закругление углов */
+    cursor: pointer; /* Курсор при наведении */
+}
+.back-button:hover {
+    background-color: #aaa; /* Цвет при наведении на кнопку "Назад" */
+}
+.level-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px; /* Отступ сверху для отделения от заголовка */
+}
+.level-card {
+    width: 300px; /* Увеличенная ширина карточки уровня (150px * 1.5) */
+    height: auto; /* Автоматическая высота для карточки уровня */
+    margin: 10px; /* Отступ между карточками уровня (10px) */
+    background-color: #e9ecef; /* Светлее фон для карточек уровней */
+    border-radius: 10px; /* Закругление углов карточки уровня */
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2); /* Тень для карточки уровня */
+    text-align: center; /* Центрирование текста внутри карточки */
+    padding: 10px; /* Отступы внутри карточки уровня */
+}
+.level-card img {
+    width: 100%; /* Ширина изображения на всю карточку */
+    height: auto; /* Автоматическая высота для сохранения пропорций */
+}
+.level-card button {
+    margin-top: 10px; /* Отступ сверху для кнопки "Начать" */
+    padding: 5px 10px; /* Отступы для кнопки "Начать" */
+    background-color: #ccc; /* Серый цвет фона кнопки "Начать" */
+    color: black; /* Цвет текста кнопки "Начать" */
+    border: none; /* Убираем рамку */
+    border-radius: 5px; /* Закругление углов кнопки "Начать" */
+    cursor: pointer; /* Курсор при наведении */
+}
+.level-card button:hover {
+    background-color: #aaa; /* Цвет при наведении на кнопку "Начать" */
+}

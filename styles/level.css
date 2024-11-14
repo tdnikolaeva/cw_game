@@ -1,0 +1,81 @@
+* {
+    box-sizing: border-box; /* Учитываем отступы и границы в ширине */
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f0f0f0;
+    width: 100vw; /* Ширина на 100% от окна просмотра */
+    height: 100vh; /* Высота на 100% от окна просмотра */
+    overflow-x: hidden; /* Скрываем горизонтальную прокрутку */
+}
+#header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%; /* Ширина заголовка на 100% */
+    padding: 10px 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+h1 {
+    margin: 0; /* Убираем отступы у заголовка */
+}
+.back-button {
+    padding: 10px 15px; /* Отступы для кнопки */
+    background-color: #ccc; /* Серый цвет фона кнопки "Назад" */
+    color: black; /* Цвет текста кнопки "Назад" */
+    border: none; /* Убираем рамку */
+    border-radius: 5px; /* Закругление углов */
+    cursor: pointer; /* Курсор при наведении */
+}
+.back-button:hover {
+    background-color: #aaa; /* Цвет при наведении на кнопку "Назад" */
+}
+#canvasContainer {
+    display: flex;
+    align-items: flex-start; /* Центрирование по вертикали */
+    margin-top: 20px; /* Отступ сверху для отделения от заголовка */
+    width: 100%; /* Ширина контейнера на 100% */
+    max-width: 800px; /* Максимальная ширина контейнера */
+    justify-content: center; /* Центрирование контейнера по горизонтали */
+}
+#canvasid {
+    border: 1px solid black;
+    width: 100%; /* Ширина канваса на 100% */
+    height: auto; /* Высота канваса автоматически подстраивается */
+}
+.lives-score {
+    display: flex;
+    flex-direction: column; /* Вертикальное расположение элементов */
+    margin-left: 20px; /* Отступ между канвасом и панелью */
+}
+.score-item {
+    width: 300px; /* Фиксированная ширина элемента */
+    margin-bottom: 10px; /* Отступ между элементами */
+    padding: 10px;
+    background-color: #fff; /* Фон для плашек */
+    border-radius: 5px; /* Закругление углов */
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1); /* Тень для плашек */
+}
+#volumeControl {
+    width: calc(100% - 20px); /* Ширина ползунка с учетом отступов */
+}
+#result {
+    margin-top: 20px;
+}
+.start-button, .next-button{
+    margin-top: 10px; /* Отступ сверху для кнопки "Начать" */
+    padding: 10px 15px; /* Отступы для кнопки "Начать" */
+    background-color: #ccc; /* Серый цвет фона кнопки "Начать" */
+    color: black; /* Цвет текста кнопки "Начать" */
+    border: none; /* Убираем рамку */
+    border-radius: 5px; /* Закругление углов кнопки "Начать" */
+    cursor: pointer; /* Курсор при наведении */
+}
+.start-button:hover,.next-button:hover  {
+    background-color: #aaa; /* Цвет при наведении на кнопку "Начать" */
+}

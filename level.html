@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Уровень</title>
+    <link rel="stylesheet" type="text/css" href="styles/level.css">
+</head>
+<body>
+
+<div id="header">
+    <button class="back-button" onclick="window.location.href = 'levels.html';">Назад</button>
+    <h1 id="levelTitle">LEVEL </h1>
+</div>
+
+<div id="canvasContainer">
+    <canvas id="canvasid" width="800" height="512"></canvas>
+    <div class="lives-score">
+        <div class="score-item" id="lives">Жизни: 5</div>
+        <div class="score-item" id="score">Очки: 0</div>
+        <div class="score-item">
+            <label for="volumeControl">Громкость:</label>
+            <input type="range" id="volumeControl" min="0" max="1" step="0.01" value="1">
+        </div>
+
+        <div class="score-item" id="highScores">
+            <h3>Таблица рекордов уровня:</h3>
+            <ul id="highScoresList">
+                <!-- Здесь будут отображаться рекорды -->
+                <!-- Записи будут добавлены динамически -->
+            </ul>
+        </div>
+
+        <!-- Кнопка "Начать", расположенная справа под таблицей -->
+        <button class="start-button" id="startButton">Начать уровень заново</button>
+
+        <!-- Кнопка "Следующий уровень" -->
+        <button class="next-button" id="nextButton">Следующий уровень</button>
+    </div>
+</div>
+
+<div id="result"></div>
+
+<script type="module" src="scripts/pages/level.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,2354 @@
+{
+  "frames": {
+    "golem-hit4": {
+      "frame": {
+        "x": 40,
+        "y": 89,
+        "w": 36,
+        "h": 39
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 39
+      },
+      "sourceSize": {
+        "w": 36,
+        "h": 39
+      }
+    },
+    "golem-run1": {
+      "frame": {
+        "x": 115,
+        "y": 168,
+        "w": 31,
+        "h": 38
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 31,
+        "h": 38
+      }
+    },
+    "player-idle3": {
+      "frame": {
+        "x": 271,
+        "y": 132,
+        "w": 30,
+        "h": 31
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 31
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 31
+      }
+    },
+    "bat-hit7": {
+      "frame": {
+        "x": 302,
+        "y": 63,
+        "w": 17,
+        "h": 18
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 18
+      },
+      "sourceSize": {
+        "w": 17,
+        "h": 18
+      }
+    },
+    "coin": {
+      "frame": {
+        "x": 157,
+        "y": 348,
+        "w": 11,
+        "h": 14
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 11,
+        "h": 14
+      },
+      "sourceSize": {
+        "w": 11,
+        "h": 14
+      }
+    },
+    "golem-hit7": {
+      "frame": {
+        "x": 0,
+        "y": 129,
+        "w": 50,
+        "h": 38
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 50,
+        "h": 38
+      }
+    },
+    "golem-run6": {
+      "frame": {
+        "x": 51,
+        "y": 129,
+        "w": 42,
+        "h": 38
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 42,
+        "h": 38
+      }
+    },
+    "golem-hit8": {
+      "frame": {
+        "x": 0,
+        "y": 245,
+        "w": 42,
+        "h": 35
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 42,
+        "h": 35
+      }
+    },
+    "golem-hit9": {
+      "frame": {
+        "x": 167,
+        "y": 245,
+        "w": 42,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 42,
+        "h": 33
+      }
+    },
+    "player-die15": {
+      "frame": {
+        "x": 104,
+        "y": 313,
+        "w": 34,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 16
+      }
+    },
+    "bat-idle2": {
+      "frame": {
+        "x": 271,
+        "y": 260,
+        "w": 16,
+        "h": 20
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 20
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 20
+      }
+    },
+    "player-idle6": {
+      "frame": {
+        "x": 271,
+        "y": 164,
+        "w": 30,
+        "h": 31
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 31
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 31
+      }
+    },
+    "bat-run1": {
+      "frame": {
+        "x": 206,
+        "y": 348,
+        "w": 34,
+        "h": 13
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 13
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 13
+      }
+    },
+    "player-die2": {
+      "frame": {
+        "x": 43,
+        "y": 245,
+        "w": 30,
+        "h": 34
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 34
+      }
+    },
+    "golem-run8": {
+      "frame": {
+        "x": 77,
+        "y": 89,
+        "w": 36,
+        "h": 39
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 39
+      },
+      "sourceSize": {
+        "w": 36,
+        "h": 39
+      }
+    },
+    "bat-hit4": {
+      "frame": {
+        "x": 302,
+        "y": 82,
+        "w": 16,
+        "h": 18
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 18
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 18
+      }
+    },
+    "golem-die3": {
+      "frame": {
+        "x": 38,
+        "y": 0,
+        "w": 41,
+        "h": 43
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 41,
+        "h": 43
+      }
+    },
+    "golem-hit5": {
+      "frame": {
+        "x": 0,
+        "y": 46,
+        "w": 40,
+        "h": 42
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 42
+      }
+    },
+    "golem-hit3": {
+      "frame": {
+        "x": 147,
+        "y": 168,
+        "w": 40,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 37
+      }
+    },
+    "golem-run7": {
+      "frame": {
+        "x": 194,
+        "y": 0,
+        "w": 38,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 37
+      }
+    },
+    "golem-idle3": {
+      "frame": {
+        "x": 194,
+        "y": 38,
+        "w": 38,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 37
+      }
+    },
+    "golem-idle4": {
+      "frame": {
+        "x": 194,
+        "y": 76,
+        "w": 38,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 37
+      }
+    },
+    "bat-hit6": {
+      "frame": {
+        "x": 302,
+        "y": 101,
+        "w": 16,
+        "h": 18
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 18
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 18
+      }
+    },
+    "player-die6": {
+      "frame": {
+        "x": 58,
+        "y": 281,
+        "w": 30,
+        "h": 30
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 30
+      }
+    },
+    "player-die5": {
+      "frame": {
+        "x": 74,
+        "y": 245,
+        "w": 30,
+        "h": 34
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 34
+      }
+    },
+    "bat-run2": {
+      "frame": {
+        "x": 302,
+        "y": 120,
+        "w": 16,
+        "h": 18
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 18
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 18
+      }
+    },
+    "golem-run4": {
+      "frame": {
+        "x": 41,
+        "y": 46,
+        "w": 35,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 40
+      }
+    },
+    "player-idle4": {
+      "frame": {
+        "x": 89,
+        "y": 281,
+        "w": 30,
+        "h": 30
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 30
+      }
+    },
+    "bat-hit5": {
+      "frame": {
+        "x": 302,
+        "y": 22,
+        "w": 15,
+        "h": 20
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 20
+      },
+      "sourceSize": {
+        "w": 15,
+        "h": 20
+      }
+    },
+    "golem-die2": {
+      "frame": {
+        "x": 80,
+        "y": 0,
+        "w": 39,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 40
+      }
+    },
+    "golem-run5": {
+      "frame": {
+        "x": 0,
+        "y": 89,
+        "w": 39,
+        "h": 39
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 39
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 39
+      }
+    },
+    "golem-idle5": {
+      "frame": {
+        "x": 100,
+        "y": 207,
+        "w": 39,
+        "h": 36
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 36
+      }
+    },
+    "golem-idle6": {
+      "frame": {
+        "x": 140,
+        "y": 207,
+        "w": 39,
+        "h": 36
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 36
+      }
+    },
+    "player-die11": {
+      "frame": {
+        "x": 139,
+        "y": 313,
+        "w": 34,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 16
+      }
+    },
+    "player-die14": {
+      "frame": {
+        "x": 174,
+        "y": 313,
+        "w": 34,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 16
+      }
+    },
+    "player-run1": {
+      "frame": {
+        "x": 105,
+        "y": 245,
+        "w": 30,
+        "h": 34
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 34
+      }
+    },
+    "player-die12": {
+      "frame": {
+        "x": 209,
+        "y": 313,
+        "w": 34,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 16
+      }
+    },
+    "player-die13": {
+      "frame": {
+        "x": 244,
+        "y": 313,
+        "w": 34,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 16
+      }
+    },
+    "bat-run4": {
+      "frame": {
+        "x": 302,
+        "y": 43,
+        "w": 15,
+        "h": 19
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 19
+      },
+      "sourceSize": {
+        "w": 15,
+        "h": 19
+      }
+    },
+    "golem-run3": {
+      "frame": {
+        "x": 120,
+        "y": 0,
+        "w": 34,
+        "h": 39
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 39
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 39
+      }
+    },
+    "player-idle5": {
+      "frame": {
+        "x": 120,
+        "y": 281,
+        "w": 30,
+        "h": 30
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 30
+      }
+    },
+    "but-die6": {
+      "frame": {
+        "x": 302,
+        "y": 139,
+        "w": 15,
+        "h": 18
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 18
+      },
+      "sourceSize": {
+        "w": 15,
+        "h": 18
+      }
+    },
+    "golem-hit1": {
+      "frame": {
+        "x": 94,
+        "y": 129,
+        "w": 38,
+        "h": 38
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 38
+      }
+    },
+    "golem-die1": {
+      "frame": {
+        "x": 155,
+        "y": 0,
+        "w": 38,
+        "h": 38
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 38
+      }
+    },
+    "golem-hurt1": {
+      "frame": {
+        "x": 155,
+        "y": 39,
+        "w": 38,
+        "h": 38
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 38
+      }
+    },
+    "golem-hurt4": {
+      "frame": {
+        "x": 155,
+        "y": 78,
+        "w": 38,
+        "h": 38
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 38
+      }
+    },
+    "golem-idle1": {
+      "frame": {
+        "x": 155,
+        "y": 117,
+        "w": 38,
+        "h": 38
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 38
+      }
+    },
+    "golem-idle2": {
+      "frame": {
+        "x": 0,
+        "y": 168,
+        "w": 38,
+        "h": 38
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 38
+      }
+    },
+    "player-run5": {
+      "frame": {
+        "x": 136,
+        "y": 245,
+        "w": 30,
+        "h": 34
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 34
+      }
+    },
+    "player-hit4": {
+      "frame": {
+        "x": 241,
+        "y": 245,
+        "w": 29,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 33
+      }
+    },
+    "but-die7": {
+      "frame": {
+        "x": 219,
+        "y": 207,
+        "w": 13,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 13,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 13,
+        "h": 21
+      }
+    },
+    "golem-run9": {
+      "frame": {
+        "x": 80,
+        "y": 41,
+        "w": 33,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 33,
+        "h": 40
+      }
+    },
+    "player-run3": {
+      "frame": {
+        "x": 210,
+        "y": 245,
+        "w": 30,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 33
+      }
+    },
+    "bat-run3": {
+      "frame": {
+        "x": 288,
+        "y": 260,
+        "w": 13,
+        "h": 20
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 13,
+        "h": 20
+      },
+      "sourceSize": {
+        "w": 13,
+        "h": 20
+      }
+    },
+    "golem-idle7": {
+      "frame": {
+        "x": 194,
+        "y": 114,
+        "w": 38,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 37
+      }
+    },
+    "golem-idle8": {
+      "frame": {
+        "x": 194,
+        "y": 152,
+        "w": 38,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 37
+      }
+    },
+    "golem-hit2": {
+      "frame": {
+        "x": 180,
+        "y": 207,
+        "w": 38,
+        "h": 36
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 36
+      }
+    },
+    "bat-hurt1": {
+      "frame": {
+        "x": 279,
+        "y": 313,
+        "w": 34,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 16
+      }
+    },
+    "bat-idle1": {
+      "frame": {
+        "x": 194,
+        "y": 190,
+        "w": 34,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 16
+      }
+    },
+    "player-die10": {
+      "frame": {
+        "x": 0,
+        "y": 331,
+        "w": 34,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 16
+      }
+    },
+    "player-die4": {
+      "frame": {
+        "x": 271,
+        "y": 99,
+        "w": 29,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 32
+      }
+    },
+    "bat-hurt5": {
+      "frame": {
+        "x": 35,
+        "y": 331,
+        "w": 34,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 16
+      }
+    },
+    "bat-hit1": {
+      "frame": {
+        "x": 70,
+        "y": 331,
+        "w": 34,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 16
+      }
+    },
+    "bat-die1": {
+      "frame": {
+        "x": 105,
+        "y": 331,
+        "w": 34,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 16
+      }
+    },
+    "bat-idle3": {
+      "frame": {
+        "x": 238,
+        "y": 281,
+        "w": 12,
+        "h": 22
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 12,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 12,
+        "h": 22
+      }
+    },
+    "bat-idle5": {
+      "frame": {
+        "x": 140,
+        "y": 331,
+        "w": 33,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 33,
+        "h": 16
+      }
+    },
+    "player-run7": {
+      "frame": {
+        "x": 120,
+        "y": 80,
+        "w": 30,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 33
+      }
+    },
+    "golem-hit6": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 45
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 37,
+        "h": 45
+      }
+    },
+    "golem-hurt2": {
+      "frame": {
+        "x": 39,
+        "y": 168,
+        "w": 37,
+        "h": 38
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 37,
+        "h": 38
+      }
+    },
+    "golem-hurt3": {
+      "frame": {
+        "x": 77,
+        "y": 168,
+        "w": 37,
+        "h": 38
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 37,
+        "h": 38
+      }
+    },
+    "golem-hit11": {
+      "frame": {
+        "x": 0,
+        "y": 207,
+        "w": 37,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 37,
+        "h": 37
+      }
+    },
+    "golem-hit10": {
+      "frame": {
+        "x": 233,
+        "y": 0,
+        "w": 37,
+        "h": 36
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 37,
+        "h": 36
+      }
+    },
+    "player-die8": {
+      "frame": {
+        "x": 0,
+        "y": 348,
+        "w": 36,
+        "h": 15
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 36,
+        "h": 15
+      }
+    },
+    "golem-die5": {
+      "frame": {
+        "x": 37,
+        "y": 348,
+        "w": 33,
+        "h": 15
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 33,
+        "h": 15
+      }
+    },
+    "bat-idle7": {
+      "frame": {
+        "x": 251,
+        "y": 281,
+        "w": 12,
+        "h": 22
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 12,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 12,
+        "h": 22
+      }
+    },
+    "player-die3": {
+      "frame": {
+        "x": 71,
+        "y": 207,
+        "w": 28,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 28,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 28,
+        "h": 37
+      }
+    },
+    "player-die9": {
+      "frame": {
+        "x": 169,
+        "y": 348,
+        "w": 36,
+        "h": 13
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 13
+      },
+      "sourceSize": {
+        "w": 36,
+        "h": 13
+      }
+    },
+    "bat-run5": {
+      "frame": {
+        "x": 241,
+        "y": 348,
+        "w": 33,
+        "h": 12
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 12
+      },
+      "sourceSize": {
+        "w": 33,
+        "h": 12
+      }
+    },
+    "bat-idle8": {
+      "frame": {
+        "x": 264,
+        "y": 281,
+        "w": 10,
+        "h": 22
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 10,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 10,
+        "h": 22
+      }
+    },
+    "player-idle1": {
+      "frame": {
+        "x": 233,
+        "y": 37,
+        "w": 30,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 33
+      }
+    },
+    "player-hurt2": {
+      "frame": {
+        "x": 0,
+        "y": 281,
+        "w": 28,
+        "h": 31
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 28,
+        "h": 31
+      },
+      "sourceSize": {
+        "w": 28,
+        "h": 31
+      }
+    },
+    "golem-run10": {
+      "frame": {
+        "x": 120,
+        "y": 40,
+        "w": 32,
+        "h": 39
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 39
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 39
+      }
+    },
+    "golem-run2": {
+      "frame": {
+        "x": 38,
+        "y": 207,
+        "w": 32,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 37
+      }
+    },
+    "bat-hit2": {
+      "frame": {
+        "x": 0,
+        "y": 313,
+        "w": 31,
+        "h": 17
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 17
+      },
+      "sourceSize": {
+        "w": 31,
+        "h": 17
+      }
+    },
+    "but-die4": {
+      "frame": {
+        "x": 32,
+        "y": 313,
+        "w": 19,
+        "h": 17
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 19,
+        "h": 17
+      },
+      "sourceSize": {
+        "w": 19,
+        "h": 17
+      }
+    },
+    "bat-hit3": {
+      "frame": {
+        "x": 52,
+        "y": 313,
+        "w": 17,
+        "h": 17
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 17
+      },
+      "sourceSize": {
+        "w": 17,
+        "h": 17
+      }
+    },
+    "bat-run6": {
+      "frame": {
+        "x": 70,
+        "y": 313,
+        "w": 16,
+        "h": 17
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 17
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 17
+      }
+    },
+    "bat-idle6": {
+      "frame": {
+        "x": 87,
+        "y": 313,
+        "w": 16,
+        "h": 17
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 17
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 17
+      }
+    },
+    "bat-idle4": {
+      "frame": {
+        "x": 275,
+        "y": 281,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 21
+      }
+    },
+    "bat-run7": {
+      "frame": {
+        "x": 133,
+        "y": 129,
+        "w": 10,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 10,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 10,
+        "h": 21
+      }
+    },
+    "bat-die2": {
+      "frame": {
+        "x": 174,
+        "y": 331,
+        "w": 29,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 16
+      }
+    },
+    "bat-idle9": {
+      "frame": {
+        "x": 259,
+        "y": 331,
+        "w": 19,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 19,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 19,
+        "h": 16
+      }
+    },
+    "but-die5": {
+      "frame": {
+        "x": 279,
+        "y": 331,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 16
+      }
+    },
+    "bat-die8": {
+      "frame": {
+        "x": 275,
+        "y": 348,
+        "w": 9,
+        "h": 11
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 9,
+        "h": 11
+      },
+      "sourceSize": {
+        "w": 9,
+        "h": 11
+      }
+    },
+    "player-hit2": {
+      "frame": {
+        "x": 29,
+        "y": 281,
+        "w": 28,
+        "h": 31
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 28,
+        "h": 31
+      },
+      "sourceSize": {
+        "w": 28,
+        "h": 31
+      }
+    },
+    "player-hurt1": {
+      "frame": {
+        "x": 233,
+        "y": 71,
+        "w": 30,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 32
+      }
+    },
+    "player-hit1": {
+      "frame": {
+        "x": 233,
+        "y": 104,
+        "w": 30,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 32
+      }
+    },
+    "player-run8": {
+      "frame": {
+        "x": 233,
+        "y": 137,
+        "w": 30,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 32
+      }
+    },
+    "player-die1": {
+      "frame": {
+        "x": 233,
+        "y": 170,
+        "w": 30,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 32
+      }
+    },
+    "player-run4": {
+      "frame": {
+        "x": 233,
+        "y": 203,
+        "w": 30,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 32
+      }
+    },
+    "player-idle2": {
+      "frame": {
+        "x": 271,
+        "y": 0,
+        "w": 30,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 32
+      }
+    },
+    "player-idle7": {
+      "frame": {
+        "x": 271,
+        "y": 33,
+        "w": 30,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 32
+      }
+    },
+    "player-hit5": {
+      "frame": {
+        "x": 271,
+        "y": 66,
+        "w": 30,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 32
+      }
+    },
+    "player-run2": {
+      "frame": {
+        "x": 271,
+        "y": 196,
+        "w": 30,
+        "h": 31
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 31
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 31
+      }
+    },
+    "player-run6": {
+      "frame": {
+        "x": 271,
+        "y": 228,
+        "w": 30,
+        "h": 31
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 31
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 31
+      }
+    },
+    "player-hurt3": {
+      "frame": {
+        "x": 151,
+        "y": 281,
+        "w": 28,
+        "h": 30
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 28,
+        "h": 30
+      },
+      "sourceSize": {
+        "w": 28,
+        "h": 30
+      }
+    },
+    "player-hit3": {
+      "frame": {
+        "x": 180,
+        "y": 281,
+        "w": 28,
+        "h": 30
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 28,
+        "h": 30
+      },
+      "sourceSize": {
+        "w": 28,
+        "h": 30
+      }
+    },
+    "player-die7": {
+      "frame": {
+        "x": 209,
+        "y": 281,
+        "w": 28,
+        "h": 27
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 28,
+        "h": 27
+      },
+      "sourceSize": {
+        "w": 28,
+        "h": 27
+      }
+    },
+    "golem-die4": {
+      "frame": {
+        "x": 302,
+        "y": 0,
+        "w": 28,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 28,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 28,
+        "h": 21
+      }
+    },
+    "bat-hurt4": {
+      "frame": {
+        "x": 204,
+        "y": 331,
+        "w": 27,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 27,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 27,
+        "h": 16
+      }
+    },
+    "bat-hit8": {
+      "frame": {
+        "x": 232,
+        "y": 331,
+        "w": 26,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 26,
+        "h": 16
+      }
+    },
+    "bat-die3": {
+      "frame": {
+        "x": 71,
+        "y": 348,
+        "w": 24,
+        "h": 15
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 15
+      }
+    },
+    "bat-hurt2": {
+      "frame": {
+        "x": 96,
+        "y": 348,
+        "w": 20,
+        "h": 15
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 15
+      }
+    },
+    "bat-hurt3": {
+      "frame": {
+        "x": 117,
+        "y": 348,
+        "w": 19,
+        "h": 15
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 19,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 19,
+        "h": 15
+      }
+    },
+    "bat-run8": {
+      "frame": {
+        "x": 137,
+        "y": 348,
+        "w": 19,
+        "h": 15
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 19,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 19,
+        "h": 15
+      }
+    },
+    "golem-die6": {
+      "frame": {
+        "x": 285,
+        "y": 348,
+        "w": 17,
+        "h": 8
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 8
+      },
+      "sourceSize": {
+        "w": 17,
+        "h": 8
+      }
+    },
+    "golem-die7": {
+      "frame": {
+        "x": 303,
+        "y": 348,
+        "w": 21,
+        "h": 4
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 21,
+        "h": 4
+      },
+      "sourceSize": {
+        "w": 21,
+        "h": 4
+      }
+    }
+  },
+  "meta": {
+    "app": "https://www.leshylabs.com/apps/sstool/",
+    "version": "Leshy SpriteSheet Tool v0.8.4",
+    "image": "sprites.png",
+    "size": {
+      "w": 330,
+      "h": 363
+    },
+    "scale": 1
+  }
+}
