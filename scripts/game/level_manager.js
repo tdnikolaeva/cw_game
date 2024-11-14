@@ -26,7 +26,7 @@ export var levelManager = {
             soundManager.loadArray(soundFiles);
         }
         this.displayTopPlayers(this.level);
-        gameManager.loadAll(`/data/levels_maps/${this.level}.json`, '/data/sprites/sprites.json', '/data/sprites/sprites.png');
+        gameManager.loadAll(`data/levels_maps/${this.level}.json`, 'data/sprites/sprites.json', 'data/sprites/sprites.png');
         gameManager.play();
     },
 
