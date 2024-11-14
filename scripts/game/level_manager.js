@@ -43,7 +43,7 @@ export var levelManager = {
             this.updateTopPlayers(username, 0, this.level);
         }
         this.displayTopPlayers(this.level);
-        soundManager.play('../data/sounds/successfullgameend.mp3', {looping: false, volume: soundManager.volume});
+        soundManager.play('/data/sounds/successfullgameend.mp3', {looping: false, volume: soundManager.volume});
     },
 
     getTopPlayers: function (levelNum) {
